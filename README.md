@@ -2,6 +2,8 @@
 
 Aplicativo desenvolvido para o TCC intitulado "Desenvolvimento de um aplicativo móvel para auxiliar o ensino em frações matemáticas na educação fundamental baseado em gamificação".
 
+O TCC completo pode ser conferido em [https://repositorio.ifes.edu.br/handle/123456789/5492](https://repositorio.ifes.edu.br/handle/123456789/5492).
+
 ---
 
 ## ⚙️ Como executar o projeto
