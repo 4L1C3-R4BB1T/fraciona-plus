@@ -54,6 +54,9 @@ http://localhost:4200
 
 ❗Para fazer a build do APK é preciso ter a API backend online. É necessário também possuir o Android Studio.
 
+Crie o arquivo ```environment.prod.ts``` em ```src\environments``` com a mesma estrutura do aquivo ```environment.ts```, porém em ```apiUrl``` com a url da API online.
+
+
 Execute o comando:
 
 ```bash
