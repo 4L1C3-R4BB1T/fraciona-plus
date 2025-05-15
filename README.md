@@ -68,3 +68,11 @@ npm run android-build
 Será aberto o Android Studio. No menu superior, vá em ```Build > Build App Bundle(s) / APK(s) > Build APK(s)```.
 
 ![Build APK](https://github.com/4L1C3-R4BB1T/fraciona-plus/blob/feature/race-challenge/build_apk.png)
+
+---
+
+## 🎞️ Demonstração
+
+https://github.com/user-attachments/assets/49460bca-ed69-40f0-826b-2f9ba32573cc
+
+
